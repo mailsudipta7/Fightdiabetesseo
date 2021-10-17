@@ -1,0 +1,1148 @@
+
+@media screen and (min-width: 1280px) and (max-width: 1680px) {
+    .navbar-brand img {
+        width: 320px;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 h1 {
+        font-size: 40px;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .diabets-care-pan .diabets-care-pan-rgt h4 {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .diabets-care-pan .diabets-care-pan-rgt p {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-next {
+        right: 2%;
+        top: 50%;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-prev {
+        left: 2%;
+        top: 50%;
+    }
+    /*--service page tab css*/
+    .service-pannal .nav-tabs {
+        min-height: 119vh;
+    }
+    /*--appointment box--*/
+    #appointment-box .modal-body-cus .tab-content .tab-pane .col-md-12 {
+        width: 95%;
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1279px) {
+    .sl-wrapper .sl-navigation button.sl-next {
+        right: 2%;
+        top: 50%;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-prev {
+        left: 2%;
+        top: 50%;
+    }
+}
+
+@media screen and (min-width: 961px) and (max-width: 1024px) {
+    #header .navbar-brand img {
+        width: 280px;
+    }
+
+    .cont-info-pan {
+        margin-top: 0;
+    }
+
+    .menu-nav li {
+        padding-right: 5px;
+    }
+
+    .navSection nav .navbar-nav .nav-link {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 h4 {
+        font-size: 20px;
+        line-height: 26px;
+        padding: 0 0 7px;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-next {
+        right: 1%;
+        top: 50%;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-prev {
+        left: 1%;
+        top: 50%;
+    }
+
+    .cont-info-pan .info-box h3 {
+        font-size: 24px;
+    }
+
+    .cont-info-pan .info-box ul.listing-hosp-list li p {
+        font-size: 11px;
+    }
+
+    .cont-info-pan .info-box ul.listing-hosp-list li a {
+        font-size: 10.5px;
+    }
+
+        .cont-info-pan .info-box ul.listing-hosp-list li a img {
+            margin-right: 4px;
+        }
+}
+
+@media screen and (min-width: 768px) and (max-width: 960px) {
+    #header {
+        /*	position:relative;
+	background:#186587;*/
+    }
+
+        #header .navbar-brand img {
+            width: 230px;
+        }
+
+        #header .top-header {
+            padding: 25px 0 5px;
+        }
+
+    .menu-nav {
+        text-align: center;
+        background: rgba(0, 0, 0, .9);
+        border-radius: 30px 0;
+        padding-bottom: 20px;
+    }
+
+        .menu-nav li:first-child {
+            margin-top: 25px;
+        }
+
+    .navbar-toggler {
+        /*background:#3EB8D7;*/
+        outline: none !important;
+        border-radius: 0;
+        margin-bottom: 3px;
+    }
+
+    .navbar {
+        padding-top: 5px;
+    }
+
+        .navbar .navbar-toggler .icon-bar {
+            background: #fff;
+        }
+
+    .navSection nav .navbar-nav .nav-item .nav-link {
+        display: block;
+        display: inline-block;
+        padding: 10px 50px;
+        margin-bottom: 4px;
+    }
+
+    .navSection nav .navbar-nav .nav-item:last-child .nav-link {
+        margin-bottom: 0;
+    }
+
+    .cont-info-pan {
+        margin-top: 0;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 h4 {
+        font-size: 20px;
+        line-height: 26px;
+        padding: 0 0 7px;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 h4 {
+        font-size: 20px;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 .appointment-but-div {
+        margin-top: 10px;
+    }
+
+        .banner-pan .banner-pan-inr-hldr .col-lg-12 .appointment-but-div input.appointment-but {
+            padding: 12px 25px;
+            font-size: 16px;
+        }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 h1 {
+        font-size: 38px;
+        padding: 10px 0 10px;
+    }
+
+    .banner-pan-inr-hldr {
+        top: 12%;
+    }
+
+    .slider-cus .book-appointment-div {
+        right: -148px;
+        top: 46%;
+    }
+
+        .slider-cus .book-appointment-div a {
+            font-size: 18px;
+            padding: 12px 50px 12px;
+        }
+
+    .sl-wrapper .sl-navigation button.sl-next {
+        right: 1%;
+        top: 50%;
+        width: 56px;
+        height: 56px;
+        line-height: 45px;
+        font-size: 3rem;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-prev {
+        left: 1%;
+        top: 50%;
+        width: 56px;
+        height: 56px;
+        line-height: 45px;
+        font-size: 3rem;
+    }
+
+    #appointment-box .modal-body-cus input.but-cus {
+        padding: 15px 50px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    #appointment-box .modal-body-cus .tab-content .tab-pane {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .ser-banner-pan .col-lg-12 h1 {
+        font-size: 36px;
+        padding: 15px 35px;
+        margin: 140px 0 0 0;
+        line-height: 42px;
+    }
+
+    .ser-banner-pan {
+        max-height: 280px;
+    }
+}
+
+@media screen and (min-width: 586px) and (max-width: 767px) {
+    .cont-info-pan {
+        margin-top: 0;
+    }
+
+    #header {
+        /*	position:relative;
+	background:#186587;*/
+    }
+
+        #header .top-header {
+            padding: 25px 0 5px;
+        }
+
+    .navbar-brand img {
+        width: 300px;
+    }
+
+    .menu-nav {
+        text-align: center;
+        background: rgba(0, 0, 0, .9);
+        border-radius: 30px 0;
+        padding-bottom: 20px;
+    }
+
+        .menu-nav li {
+            padding-right: 0;
+        }
+
+            .menu-nav li:first-child {
+                margin-top: 25px;
+            }
+
+    .navbar-toggler {
+        /*background:#3EB8D7;*/
+        outline: none !important;
+        border-radius: 0;
+        margin-bottom: 3px;
+    }
+
+    .navbar {
+        padding-top: 25px;
+    }
+
+        .navbar .navbar-toggler .icon-bar {
+            background: #fff;
+        }
+
+    .navSection nav .navbar-nav .nav-item .nav-link {
+        display: block;
+    }
+
+    .navSection nav .navbar-nav .nav-item:last-child .nav-link {
+        margin-bottom: 0;
+    }
+
+    .cont-info-pan .info-box .mob-icon-rgt a.direction-text {
+        font-size: 15px;
+    }
+
+    .about-pannal .about-hldr-inr .appointment-but-div {
+        margin-bottom: 30px;
+    }
+
+    .banner-pan-inr-hldr {
+        top: 5%;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 h1 {
+        font-size: 32px;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 h4 {
+        font-size: 17px;
+        line-height: 22px;
+        padding: 0 0 10px;
+    }
+
+    .banner-pan .banner-pan-inr-hldr .col-lg-12 .appointment-but-div {
+        margin: 10px 0;
+    }
+
+        .banner-pan .banner-pan-inr-hldr .col-lg-12 .appointment-but-div input.appointment-but {
+            background: #009FE3;
+            border-radius: 30px 0px;
+            padding: 15px 25px;
+            font-size: 16px;
+        }
+
+    .slider-cus .book-appointment-div {
+        right: -132px;
+        top: 60%;
+    }
+
+        .slider-cus .book-appointment-div a {
+            font-size: 17px;
+            padding: 10px 40px 10px;
+        }
+
+    .service-offer-pan .offer-hldr-box {
+        padding: 30px 0 10px;
+    }
+
+    .service-offer-pan .offer-hldr-box {
+        font-size: 18px;
+    }
+
+    .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link.active, .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link:hover {
+        font-size: 12px;
+        margin: 0 8px;
+        padding: 5px 12px;
+    }
+
+    .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link {
+        font-size: 12px;
+        margin: 0 8px;
+        padding: 5px 12px;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-next {
+        right: 1%;
+        top: 50%;
+        width: 56px;
+        height: 56px;
+        line-height: 45px;
+        font-size: 3rem;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-prev {
+        left: 1%;
+        top: 50%;
+        width: 56px;
+        height: 56px;
+        line-height: 45px;
+        font-size: 3rem;
+    }
+
+    .cont-info-pan .info-box .mob-icon-rgt p {
+        font-size: 18px;
+        line-height: 22px !important;
+        padding-bottom: 5px;
+    }
+
+    .cont-info-pan .info-box .mob-icon-rgt a.mob-text {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    #appointment-box .modal-body-cus input.but-cus {
+        padding: 15px 50px;
+        font-size: 16px;
+        margin-top: 40px;
+    }
+
+    #appointment-box .modal-body-cus .tab-content .tab-pane {
+        padding-left: 0;
+        padding-right: 0;
+        margin: 0 auto;
+    }
+
+        #appointment-box .modal-body-cus .tab-content .tab-pane .col-md-12 {
+            width: 100%;
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+    #appointment-box .modal-body-cus .popup-bot {
+        width: 111%;
+        margin-left: -29.5px;
+        margin-right: -29.5px;
+    }
+
+    #appointment-box .modal-body-cus .tab-content .tab-pane .alert-cus {
+        width: 111%;
+        border-radius: 0;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin: 0 -29px;
+    }
+
+    .ser-banner-pan {
+        max-height: 280px;
+    }
+
+        .ser-banner-pan .col-lg-12 h1 {
+            font-size: 36px;
+            padding: 15px 35px;
+            margin: 140px 0 0 0;
+            line-height: 42px;
+        }
+
+    .diabets-care-pan .diabets-care-pan-lft img {
+        padding-top: 25px;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 585px) {
+    #header {
+        /*position:relative;
+	background:#186587;*/
+    }
+
+        #header .top-header {
+            padding: 25px 0 5px;
+        }
+
+    .navbar-brand img {
+        width: 280px;
+    }
+
+    .menu-nav {
+        text-align: center;
+    }
+
+        .menu-nav li:first-child {
+            margin-top: 25px;
+        }
+
+    .navbar-toggler {
+        /*background:#3EB8D7;*/
+        outline: none !important;
+        border-radius: 0;
+        margin-bottom: 3px;
+    }
+
+    .navbar {
+        padding-top: 10px;
+    }
+
+        .navbar .navbar-toggler .icon-bar {
+            background: #fff;
+        }
+
+    .menu-nav {
+        text-align: center;
+        background: rgba(0, 0, 0, .9);
+        border-radius: 30px 0;
+        padding-bottom: 20px;
+    }
+
+        .menu-nav li {
+            padding-right: 0;
+        }
+
+    .cont-info-pan {
+        margin-top: 0;
+    }
+
+    .banner-pan {
+    }
+
+        .banner-pan .slider-mn {
+            display: none;
+        }
+
+        .banner-pan .slider-mob-box {
+            display: block;
+        }
+
+    .slider-cus .book-appointment-div {
+        right: -120px;
+        top: 75%;
+    }
+
+        .slider-cus .book-appointment-div a {
+            font-size: 16px;
+            padding: 10px 35px 10px;
+        }
+
+    .about-pannal .about-hldr-inr {
+        text-align: center;
+    }
+
+    .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link.active, .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link:hover {
+        font-size: 12px;
+        margin: 0 8px;
+        padding: 5px 12px;
+    }
+
+    .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link {
+        font-size: 12px;
+        margin: 0 8px;
+        padding: 5px 12px;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-next {
+        right: 3.5%;
+        top: 50%;
+        width: 56px;
+        height: 56px;
+        line-height: 45px;
+        font-size: 3rem;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-prev {
+        left: 3.5%;
+        top: 50%;
+        width: 56px;
+        height: 56px;
+        line-height: 45px;
+        font-size: 3rem;
+    }
+
+    #appointment-box .modal-header-cus h4 {
+        font-size: 21px;
+    }
+
+    #appointment-box .modal-body-cus .tab-content .tab-pane .client-visit-hldr {
+        padding: 30px 0;
+    }
+
+        #appointment-box .modal-body-cus .tab-content .tab-pane .client-visit-hldr p {
+            font-size: 18px;
+            line-height: 26px;
+        }
+
+    #appointment-box .modal-body-cus .tab-content .tab-pane .alert-cus {
+        width: 98.5%;
+        border-radius: 0;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin: 0 3px;
+        font-size: 14px;
+    }
+
+    #appointment-box .modal-footer-cus input.but-cus {
+        padding: 15px 50px;
+        font-size: 18px;
+    }
+
+    #appointment-box .tab-listing ul li a {
+        font-size: 15px;
+    }
+
+    #appointment-box .modal-body-cus input.but-cus {
+        padding: 14px 40px;
+        font-size: 16px;
+    }
+
+    #appointment-box .modal-body-cus .popup-bot {
+        width: 94%;
+    }
+
+    .ser-banner-pan {
+        max-height: 280px;
+    }
+
+        .ser-banner-pan .col-lg-12 h1 {
+            font-size: 32px;
+            margin: 130px 0 0 0;
+            padding: 10px 40px;
+            line-height: 40px;
+        }
+
+    .service-pannal .card-body img:first-child {
+        width: 270px;
+        height: 180px;
+        float: none;
+        display: block;
+        margin: 0 auto 30px auto;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    #home, #about, #care, #service, #gallery, #blog, #contact {
+        padding-top: 60px;
+    }
+
+    .navbar-brand img {
+        width: 200px;
+    }
+
+    #header {
+        /*position:relative;
+	background:#186587;*/
+    }
+
+        #header .top-header {
+            padding: 25px 0 5px;
+        }
+
+    .logo-hldr a img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .menu-nav {
+        text-align: center;
+        background: rgba(3, 81, 121, 1);
+        border-radius: 30px 0;
+        padding-bottom: 20px;
+    }
+
+        .menu-nav li {
+            padding-right: 0;
+        }
+
+            .menu-nav li:first-child {
+                margin-top: 25px;
+            }
+
+    .navbar-toggler {
+        /*background:#3EB8D7;*/
+        outline: none !important;
+        border-radius: 0;
+        margin-bottom: 3px;
+    }
+
+    .navbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+        .navbar .navbar-toggler .icon-bar {
+            background: #fff;
+        }
+
+    .navSection nav .navbar-nav .nav-item .nav-link {
+        display: block;
+        padding: 10px 50px;
+        margin-bottom: 4px;
+        width: 100%;
+        border-radius: 30px 0px;
+    }
+
+    .navSection nav .navbar-nav .nav-item:last-child .nav-link {
+        margin-bottom: 0;
+    }
+
+    .banner-pan {
+    }
+
+    .cont-info-pan {
+        margin-top: 0;
+    }
+
+    .slider-cus .book-appointment-div {
+        right: -102px;
+        top: 60%;
+    }
+
+        .slider-cus .book-appointment-div a {
+            font-size: 15px;
+            padding: 10px 25px 10px;
+        }
+
+    .bx-wrapper .bx-pager {
+        position: absolute;
+        right: -4%;
+        bottom: 72%;
+    }
+
+        .bx-wrapper .bx-pager.bx-default-pager a {
+            width: 12px;
+            height: 12px;
+        }
+
+    .about-pannal .about-hldr-inr p {
+        padding-right: 0;
+    }
+
+    .about-pannal .about-hldr-inr {
+        text-align: center;
+    }
+
+    .about-pannal {
+        padding-bottom: 0;
+    }
+
+        .about-pannal .doctor-img-hldr {
+            margin-left: 10px;
+        }
+
+        .about-pannal .about-hldr-inr h5 {
+            font-size: 22px;
+        }
+
+        .about-pannal .about-hldr-inr p span {
+            line-height: 30px;
+        }
+
+        .about-pannal .about-hldr-inr p {
+            line-height: 28px;
+        }
+
+    .diabets-care-pan {
+        padding: 30px 0;
+    }
+
+        .diabets-care-pan .diabets-care-pan-rgt {
+            text-align: center;
+        }
+
+            .diabets-care-pan .diabets-care-pan-rgt h5 {
+                font-size: 18px;
+            }
+
+            .diabets-care-pan .diabets-care-pan-rgt h3 {
+                font-size: 30px;
+            }
+
+            .diabets-care-pan .diabets-care-pan-rgt h2 {
+                font-size: 24px;
+                padding: 6px 0;
+            }
+
+            .diabets-care-pan .diabets-care-pan-rgt h4 {
+                font-size: 15px;
+                line-height: 34px;
+            }
+
+            .diabets-care-pan .diabets-care-pan-rgt p {
+                font-size: 16px;
+                line-height: 32px;
+                padding: 20px 8px;
+            }
+
+            .diabets-care-pan .diabets-care-pan-rgt .appointment-but-div {
+                text-align: center;
+                margin: 0 auto 40px auto;
+            }
+
+                .diabets-care-pan .diabets-care-pan-rgt .appointment-but-div input.appointment-but {
+                    padding: 12px 0;
+                    width: 100%;
+                    font-size: 14px;
+                }
+
+    .service-offer-pan {
+        padding: 30px 0;
+    }
+
+        .service-offer-pan .offer-hldr-box {
+            margin-bottom: 10px;
+        }
+
+        .service-offer-pan .service-offer-hd-hldr h5 {
+            font-size: 18px;
+        }
+
+        .service-offer-pan .service-offer-hd-hldr h2 {
+            font-size: 30px;
+            line-height: 38px;
+        }
+
+        .service-offer-pan .service-offer-hd-hldr {
+            padding-bottom: 40px;
+        }
+
+        .service-offer-pan .load-mr-but a {
+            background: transparent;
+            border: 1px solid #009FE3;
+            border-radius: 25px 0px;
+            color: #009FE3;
+            font-size: 16px;
+            line-height: 22px;
+            padding: 8px 50px;
+        }
+
+            .service-offer-pan .load-mr-but a:hover {
+                background: transparent;
+                border-radius: 0 25px;
+            }
+
+    .gallery-pan .gallery-inr-hldr h2 {
+        font-size: 30px;
+    }
+
+    .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link.active,
+    .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link:hover {
+        font-size: 16px;
+        margin: 0 10px;
+        padding: 6px 40px;
+    }
+
+    .gallery-pan .gallery-tab-hldr ul.nav li.nav-item a.nav-link {
+        font-size: 16px;
+        margin: 0 10px;
+        padding: 6px 40px;
+        transition: 0.5s all;
+    }
+
+    .gallery-pan .gallery-tab-hldr ul.nav li.nav-item {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-next {
+        right: 7.5%;
+        top: 50%;
+        width: 36px;
+        height: 36px;
+        line-height: 30px;
+        font-size: 2rem;
+    }
+
+    .sl-wrapper .sl-navigation button.sl-prev {
+        left: 7.5%;
+        top: 50%;
+        width: 36px;
+        height: 36px;
+        font-size: 2rem;
+        line-height: 30px;
+    }
+
+    #appointment-box .modal-header-cus .close {
+        margin: -.5rem -.25rem -.5rem 0rem;
+        width: 36px;
+        height: 36px;
+    }
+
+    #appointment-box .modal-header-cus h4 {
+        font-size: 18px;
+    }
+
+    #appointment-box .tab-listing ul li a {
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: .5rem;
+        padding-right: .5rem;
+        font-size: 13px;
+    }
+
+    #appointment-box .modal-body-cus .tab-content .tab-pane .client-visit-hldr {
+        padding: 30px 0;
+    }
+
+        #appointment-box .modal-body-cus .tab-content .tab-pane .client-visit-hldr p {
+            font-size: 18px;
+            line-height: 26px;
+        }
+
+    #appointment-box .modal-body-cus .tab-content .tab-pane .alert-cus {
+        width: 96.25%;
+        border-radius: 0;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin: 0 7px;
+        font-size: 14px;
+    }
+
+    #appointment-box .tab-listing ul li a {
+        font-size: 13px;
+    }
+
+    #appointment-box .modal-body-cus input.but-cus {
+        padding: 12px 35px;
+        font-size: 14px;
+    }
+
+    #appointment-box .modal-body-cus .popup-bot {
+        width: 91.5%;
+    }
+
+    .about-pannal .about-hldr-inr h2 {
+        font-size: 30px;
+        padding-top: 0;
+        padding-bottom: 15px;
+        line-height: 44px;
+    }
+
+    .cont-info-pan .info-box h3 {
+        font-size: 26px;
+    }
+
+    .cont-info-pan .info-box ul.listing-hosp-list li p {
+        font-size: 11px;
+    }
+
+    .diabets-care-pan .diabets-care-pan-lft {
+        padding-bottom: 25px;
+    }
+
+    .diabets-care-pan .diabets-care-pan-rgt .appointment-but-div input.appointment-but {
+        padding: 12px 30px;
+        font-size: 14px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .about-pannal .about-hldr-inr .appointment-but-div input.appointment-but {
+        padding: 12px 0;
+        font-size: 14px;
+        margin: 0 auto 40px auto;
+        display: block;
+        width: 100%;
+    }
+
+    .about-pannal .doctor-img-hldr::before {
+        left: -10px;
+        top: -10px;
+    }
+
+    .und-diabt-pan .und-diabt-inr-hldr .diabetes-info-box {
+        padding: 25px 30px 20px;
+        text-align: center;
+    }
+
+    .und-diabt-pan .und-diabt-inr-hldr .all-blocks-but-div {
+        padding: 30px 0 10px;
+    }
+
+    .und-diabt-pan .und-diabt-hldr-hd h4 {
+        font-size: 18px;
+        line-height: 24px;
+        padding-bottom: 10px;
+    }
+
+    .und-diabt-pan .und-diabt-hldr-hd h2 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .cont-pan .location-hldr span {
+        font-size: 17px;
+        padding-top: 10px;
+    }
+
+    .cont-pan .location-hldr .hosp-location-hldr h4 {
+        font-size: 19px;
+    }
+
+    .cont-pan .location-hldr input.appointment-but {
+        padding: 12px 0;
+        width: 100%;
+        font-size: 14px;
+        margin: 0 auto 40px auto;
+        display: block;
+    }
+
+    .cont-pan .location-hldr .hosp-location-hldr {
+        padding: 5px 0 15px;
+    }
+
+        .cont-pan .location-hldr .hosp-location-hldr h4 {
+            font-size: 18px;
+        }
+
+    .chambers-pan .chamber-hldr-hd h1 {
+        font-size: 34px;
+    }
+
+    .chambers-pan .chamber-hldr-hd {
+        padding: 0 0 10px;
+    }
+
+    .copyright-pan {
+        padding: 10px 0;
+    }
+
+    .chambers-pan {
+        padding: 40px 0 10px;
+    }
+
+    .ser-banner-pan .col-lg-12 h1 {
+        font-size: 24px;
+        margin: 70px 0 0 0;
+        padding: 5px 25px;
+        line-height: 36px;
+    }
+
+    .cont-pan {
+        text-align: center;
+    }
+
+        .chambers-pan .chamber-hldr-hd h1, .cont-pan .location-hldr h2 {
+            font-size: 30px;
+        }
+
+        .cont-pan .location-hldr span {
+            font-size: 16px;
+            padding-top: 0;
+        }
+
+        .cont-pan .location-hldr .hosp-location-hldr p {
+            font-size: 14px;
+            line-height: 22px;
+        }
+
+    .google-map iframe {
+        min-height: 260px;
+    }
+
+    .chambers-pan {
+        text-align: center;
+    }
+
+        .chambers-pan .chamber-box h5 {
+            font-size: 14px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+    .disclaimer-pan .disclaimer-hldr-inr {
+    }
+
+        .disclaimer-pan .disclaimer-hldr-inr h4 {
+            font-size: 18px;
+        }
+
+        .disclaimer-pan .disclaimer-hldr-inr h2 {
+            font-size: 30px;
+            line-height: 44px;
+        }
+
+        .disclaimer-pan .disclaimer-hldr-inr .disclaimer-hldr-text-box p {
+            padding: 0 10px;
+        }
+
+    .copyright-pan .copyright-hldr p {
+        font-size: 14px;
+    }
+    /*--service page vertical tab css--*/
+    .service-pannal {
+        padding: 50px 0;
+    }
+
+        .service-pannal .tab-content .card .card-header h5 a, .service-pannal .tab-content .card .card-header h5 a i {
+            font-size: 16px;
+        }
+
+    .comment-pannal .comment-pannal-hldr .add-com-but a {
+        padding: 12px 0;
+        width: 100%;
+        font-size: 14px;
+        margin: 0 auto 40px auto;
+        display: block;
+    }
+
+    .comment-pannal .comment-pannal-hldr .add-com-but {
+        padding-bottom: 0;
+    }
+
+    .comment-pannal .comment-pan-inr {
+        margin-top: 0;
+    }
+
+    .comment-pannal .comment-pan-inr {
+        padding: 30px 15px 25px;
+    }
+
+        .comment-pannal .comment-pan-inr .submit-div input[type="submit"] {
+            padding: 12px 0;
+            width: 100%;
+            font-size: 14px;
+            margin: 0 auto 40px auto;
+            display: block;
+        }
+
+        .comment-pannal .comment-pan-inr .submit-div {
+            padding: 5px 0 0px;
+        }
+
+    .cont-pan .google-map iframe {
+        min-height: 250px !important;
+    }
+}
+
+/*--pankaj da css--*/
+@media screen and (min-width: 375px) and (max-width: 480px) {
+    .about-pannal .about-hldr-inr .appointment-but-div {
+        margin-bottom: 45px;
+    }
+
+        .about-pannal .about-hldr-inr .appointment-but-div input.appointment-but {
+            padding: 18px 22px;
+        }
+
+    .diabets-care-pan .diabets-care-pan-rgt .appointment-but-div input.appointment-but {
+        padding: 18px 22px;
+    }
+
+    .about-pannal .about-hldr-inr h2 {
+        font-size: 40px;
+    }
+
+    .service-offer-pan .service-offer-hd-hldr h2 {
+        font-size: 40px;
+    }
+
+    .gallery-pan .gallery-inr-hldr h2 {
+        font-size: 40px;
+    }
+
+    .und-diabt-pan .und-diabt-hldr-hd h2 {
+        font-size: 40px;
+    }
+
+    .cont-pan .location-hldr h2 {
+        font-size: 40px;
+    }
+
+    .cont-pan .location-hldr input.appointment-but {
+        margin-bottom: 30px;
+    }
+
+    .chambers-pan .chamber-hldr-hd h1 {
+        font-size: 40px;
+    }
+
+    input.but-cus {
+        padding: 18px 51px;
+    }
+}
+/*--pankaj da css--*/

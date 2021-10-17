@@ -1,0 +1,1 @@
+﻿sduttaApp = angular.module('sduttaApp', ['ngRoute', 'ngSanitize']);
